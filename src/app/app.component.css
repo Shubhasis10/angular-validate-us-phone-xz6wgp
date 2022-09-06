@@ -1,0 +1,9 @@
+p {
+  font-family: Lato;
+}
+mat-form-field {
+  border: solid 1px black;
+}
+.example-form-field {
+  width: 200px;
+}
